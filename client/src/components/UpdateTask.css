@@ -1,0 +1,25 @@
+.update {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-right: 100px;
+}
+
+.update input {
+  height: 40px;
+  width: 400px;
+  border: 0;
+  border-bottom: 2px solid purple;
+  font-size: 20px;
+}
+
+.update button {
+  font-size: 15px;
+  font-weight: 600;
+  padding: 15px 20px;
+  background-color: lightskyblue;
+  margin: 10px;
+  border-radius: 5px;
+  border: 0;
+}

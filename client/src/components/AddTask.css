@@ -1,0 +1,34 @@
+.add-task-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.add-task-container input {
+  width: 30%;
+  height: 30px;
+  border: 0;
+  padding: 10px;
+  border-bottom: 2px solid purple;
+}
+
+.add-task-container input[placeholder] {
+  font-size: 20px;
+}
+
+.add-task-container button {
+  margin-left: 20px;
+  padding: 10px 30px;
+  font-size: 20px;
+  background-color: rgb(206, 102, 206);
+  border-radius: 5px;
+}
+
+/* @media (min-width: 500px) {
+  .add-task-container button {
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 0;
+  }
+} */

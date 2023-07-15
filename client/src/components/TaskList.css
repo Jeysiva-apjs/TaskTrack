@@ -1,0 +1,37 @@
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+  font-size: 23px;
+  margin-right: 140px;
+  padding-left: 10px;
+}
+
+li:hover {
+  background-color: lightgray;
+  border-radius: 10px;
+  padding: 0px 15px;
+}
+
+.edit-icon {
+  padding: 5px;
+  background-color: lightskyblue;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.delete-icon {
+  padding: 5px;
+  background-color: lightcoral;
+  margin: 5px;
+  border-radius: 5px;
+}
