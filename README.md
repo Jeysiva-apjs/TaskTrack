@@ -1,4 +1,7 @@
 # TaskTrack
-Todo app using MERN stack with CRUD functionality
 
-![image](https://github.com/Jeysiva-apjs/TaskTrack/assets/126048586/7a005b72-9451-4678-bcea-75db467e8c0c)
+a simple TODO app using Node.js, Express.js, MongoDB, and React (MERN stack). 
+In this app, users can effortlessly perform create, read, update, and delete operations.
+
+![image](https://github.com/Jeysiva-apjs/TaskTrack/assets/126048586/4f83e043-1099-41d2-b52d-305d1a4bc4e4)
+
