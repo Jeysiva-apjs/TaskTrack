@@ -1,9 +1,6 @@
 import { useEffect, useState } from "react";
 import AddTask from "./components/AddTask";
 import TaskList from "./components/TaskList";
-import "./App.css";
-
-import PropTypes from "prop-types";
 
 function App() {
   const [taskList, setTaskList] = useState([]);
